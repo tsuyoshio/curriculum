@@ -7,6 +7,4 @@ let number=10;
 console.log(number+8);
 
 //問３
-console.log(20%3)
-
-window.alert("Hello World!!");
+console.log("20割る３の余りは"+20%3);
